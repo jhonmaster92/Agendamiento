@@ -10,7 +10,7 @@ namespace AgendaSIG5.App.Consola
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello patient, welcome to AgendaSIG5!");
+            Console.WriteLine("Hello patient, welcome to AgendaSIG5!!!!");
             AddPaciente();
             BuscarPaciente(1);
         }
@@ -18,7 +18,7 @@ namespace AgendaSIG5.App.Consola
         {
             var paciente =new Paciente
             {
-                Nombre="Jairo",
+                Nombre="Jairo H",
                 Apellidos="Ramirez",
                 NumeroTelefono="3112234561",
                 Genero=Genero.Masculino,
