@@ -7,7 +7,7 @@ namespace AgendaSIG5.App.Persistencia
    {
        public DbSet<Persona> Personas {get;set;}
        public DbSet<Paciente> Pacientes {get;set;} 
-       //public DbSet<Sede> Sedes {get;set;}
+       public DbSet<Sede> Sedes {get;set;}
        //public DbSet<Laboratorio> Laboratorios {get;set;} 
        //public DbSet<Especialidad> Especialidades {get;set;}
        //public DbSet<Eps> Epss {get;set;} 
