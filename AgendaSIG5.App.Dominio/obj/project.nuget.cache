@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wEimxMPBY1/3qovj4hIhe6r4etb9+zOVmvx6QZkuFxPfrU6r7G9qT7maSXSfaMKjniXoG1ZL3FUuvSwRaGRqHw==",
+  "dgSpecHash": "Ru0fhp0e4rtlttFimUITIxQiBxLxxS+OXYurG1KYXxvxymIZfVgc7F7qWClWPXDS2UXSQj0n2TaX+FgfYhsAag==",
   "success": true,
   "projectFilePath": "C:\\Agendamiento\\AgendaSIG5.App\\AgendaSIG5.App.Dominio\\AgendaSIG5.App.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jairo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jairo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
